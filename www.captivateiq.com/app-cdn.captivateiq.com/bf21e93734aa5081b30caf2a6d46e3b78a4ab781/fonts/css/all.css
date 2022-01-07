@@ -1,0 +1,64 @@
+/* Proxima Nova */
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-regular-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-regular-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-regularit-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-regularit-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-medium-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-medium-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-mediumit-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-mediumit-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-semibold-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-semibold-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: italic;
+  font-weight: 600;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-semiboldit-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-semiboldit-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-bold-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-bold-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-boldit-webfont.woff2') format('woff2'),
+    url('https://app-cdn.captivateiq.com/bf21e93734aa5081b30caf2a6d46e3b78a4ab781/fonts/proxima-nova/webfonts/proximanova-boldit-webfont.woff') format('woff');
+}
